@@ -63,7 +63,7 @@ python app.py
 
 ## Live demo
 
-[link. deployed on Hugging Face Spaces]
+https://huggingface.co/spaces/lakshyanoir/f1-podium-predictor
 
 ## Roadmap
 
@@ -74,3 +74,4 @@ The following are planned improvements and are **not implemented yet**:
 - Live data ingestion for upcoming race weekends
 - Lap-time and pit-stop strategy modeling
 - Predicting DNFs/retirements as a separate outcome instead of treating them as low finishing positions
+
